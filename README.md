@@ -2,14 +2,14 @@
 
 # Description
 
-    The budget tracker is a useful application that allows you to add up your income and expenses to obtain a running count of your budget.
+    The note taker is a useful application that allows you to take down important notes throughout the day and have them save to a sidebar so you don't forget them.
 
-    This application is also offline friendly, meaning even if you lose internet, it will still be functional and will be able to cache any input that it receives. Once internet connection is restablished, the cached information will appear on the page like nothing happened.
+   You can add a note by first adding a note title/subject and then type the body of the note underneath. The app is great for students as well as professionals who have busy schedules.
     
 
 # Installation
 
-    This app requires you to install mongoose, morgan, express, compression, and lite-server
+    This app requires you to install express, fs, and uuid.
 
     Use npm install to obtain these.
 
@@ -47,4 +47,4 @@
 
 # Screenshot
 
-<img src="https://raw.githubusercontent.com/Cholmes1994/Progressive_Budget/master/public/images/Screen%20Shot%202020-08-06%20at%203.34.22%20PM.png" alt="app example" width="600px"/>
+<img src="https://raw.githubusercontent.com/Cholmes1994/Note_Taker/master/images/Screen%20Shot%202020-08-12%20at%201.44.27%20PM.png" alt="app example" width="600px"/>
